@@ -1,0 +1,15 @@
+C:\Users\tangu\source\repos\touchercouler\touchercouler\bin\Debug\net7.0\touchercouler.exe
+C:\Users\tangu\source\repos\touchercouler\touchercouler\bin\Debug\net7.0\touchercouler.deps.json
+C:\Users\tangu\source\repos\touchercouler\touchercouler\bin\Debug\net7.0\touchercouler.runtimeconfig.json
+C:\Users\tangu\source\repos\touchercouler\touchercouler\bin\Debug\net7.0\touchercouler.dll
+C:\Users\tangu\source\repos\touchercouler\touchercouler\bin\Debug\net7.0\touchercouler.pdb
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\touchercouler.csproj.AssemblyReference.cache
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\touchercouler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\touchercouler.AssemblyInfoInputs.cache
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\touchercouler.AssemblyInfo.cs
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\touchercouler.csproj.CoreCompileInputs.cache
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\touchercouler.dll
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\refint\touchercouler.dll
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\touchercouler.pdb
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\touchercouler.genruntimeconfig.cache
+C:\Users\tangu\source\repos\touchercouler\touchercouler\obj\Debug\net7.0\ref\touchercouler.dll
